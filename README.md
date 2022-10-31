@@ -1,5 +1,7 @@
 ## Master en Ciencia de Datos Cunef.
-Alumno: Pablo Soto Lopez.
+
+Alumno: Pablo Soto López. 
+
 Asignatura: Machine Learning.
 
 
